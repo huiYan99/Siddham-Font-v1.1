@@ -13,7 +13,7 @@
 
 6、siddham字库与输入法码表
 
-修复内容与输入法安装视频地址：
+演示视频地址：
 
 【悉昙字库的修复】 https://www.bilibili.com/video/BV1CaF6eVEaK/?share_source=copy_web&vd_source=b3b913d64b0374382224cbc3280f5fc8
 
